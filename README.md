@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="">
-    <img alt="Opaksfire" height="300" src="https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg">
+    <img alt="HAX3R" height="300" src="https://i.imgur.com/UDy7HiL.jpeg">
     <h1 align="center">FIRE-MD</h1>
   </a>
 </p>
